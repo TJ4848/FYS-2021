@@ -3,8 +3,9 @@ This project implements Logistic Regression using Stochastic Gradient Descent (S
 
 Files:
 Assignment1_Tibo_Joris.ipynb: 	This is the Jupyter Notebook containing the Python code.
-SpotifyFeatures.csv: 		This CSV file contains all the song data used in the project.
-README.md: 			The file you are currently reading.
+SpotifyFeatures.csv: 		        This CSV file contains all the song data used in the project.
+README.md: 			                The file you are currently reading.
+assignment1_Tibo_Joris.pdf:     The file containing all code and extra questions with their explenation for course FYS-2021
 
 Notice:
 The code is designed to be run in sequence.
